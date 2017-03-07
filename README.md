@@ -1,3 +1,2 @@
-### tool study
-
-Notes of study on different tools.
+# tools-study
+Notes of study on different tools
