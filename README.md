@@ -8,3 +8,7 @@ Study notes of matplotlib
 ## scrapy
 
 Study notes of scrapy
+
+## torch
+
+Study notes of [PyTorch](http://pytorch.org)
