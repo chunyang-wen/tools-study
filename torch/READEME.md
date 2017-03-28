@@ -1,3 +1,8 @@
+### Please refer to pytorch repo to install requirements
+
++ Anaconda
++ torchvision: use pip to install
+
 ### PyTorch
 
 Code from here:
